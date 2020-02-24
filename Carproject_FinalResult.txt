@@ -1,0 +1,108 @@
+ 
+    Project Name: Car Analysis from 1196-2018
+    Project by: Vairamuthu Jayakumar
+    NOTE: Every time the program runs, the File will update automatically 
+      and the graphs will save in the designated folder. 
+      Please read AboutMe.txt for to learn about this project. 
+      Thank you.
+      
+
+ 			<<< 1 >>>
+            
+ Datbase File Size: 832.3 KB 
+ Python File Size: 8.9 KB
+
+			<<< 2 >>> 
+ +------------------------+--------------------------+
+| Fuel Type              |   Numer of Vehicles uses |
+|------------------------+--------------------------|
+| Bio-Diesel             |                        8 |
+| Compressed Natural Gas |                      135 |
+| Diesel                 |                       44 |
+| Electric               |                        9 |
+| Flex Fuel              |                      183 |
+| Gasoline               |                     5562 |
+| Horse                  |                       56 |
+| Hybrid                 |                     5887 |
+| Pedal                  |                      200 |
++------------------------+--------------------------+
+                
+ Total fuel source: 12085 
+                
+ Highly uses fuel Source: Hybrid about 48.7% people uses Hybrid
+                
+
+
+    
+    			<<< 3 >>> 
+ vehicle company names and Number of models 
+ 
+    +-------------------------+
+| vehicle Company Names   |
+|-------------------------|
+| FREIGHTLINER            |
+| TOYOTA                  |
+| DODGE                   |
+| FORD                    |
+| BOYERTOWN               |
+| LINCOLN                 |
+| CHEVROLET               |
+| CADILLAC                |
++-------------------------+ 
+    
+    
+ vehicle company names, Vehincal Model Name and Number of models 
+ 
+    +-------------------------+-----------------------+---------------------------------------------+
+| vehicle Company Names   | vehicle Model Names   |   Number of vehicles Models in the Database |
+|-------------------------+-----------------------+---------------------------------------------|
+| ALEXANDER               | NULL                  |                                          20 |
+| ALEXANDER DENNIS LTD    | ENVIRO 400            |                                          11 |
+| ALEXANDER DENNIS LTD    | ENVIPO400             |                                           1 |
+| ANDERSON                | WAGON                 |                                           1 |
+| ANDERSON                | VIS-A-VIS             |                                           5 |
+| ANDERSON                | COACH                 |                                           1 |
+| AUDI                    | Q7                    |                                           1 |
+| AUDI                    | Q5                    |                                           2 |
+| AUDI                    | CARRYALL              |                                          13 |
+| AUDI                    | A8                    |                                          12 |
++-------------------------+-----------------------+---------------------------------------------+ 
+    
+
+			<<< 4 >>> 
+ Most common/preferred Vehicle model: CAMRY 
+ Number of CAMRY runing in Illinois: 2557 
+                
+ Popular Vehicle models from each company: 
+ 
+                +-------------------------+-----------------------+----------------------+
+| vehicle Company Names   | vehicle Model Names   | vehicle Model Year   |
+|-------------------------+-----------------------+----------------------|
+| ALEXANDER               | NULL                  | 2001                 |
+| ALEXANDER DENNIS LTD    | ENVIRO 400            | 2013                 |
+| ANDERSON                | VIS-A-VIS             | NULL                 |
+| AUDI                    | CARRYALL              | 2000                 |
+| BLUEBIRD                | BENZ                  | 1999                 |
+| BMW                     | 740 I                 | 2018                 |
+| BOYERTOWN               | TROLLEY               | 1984                 |
+| CADILLAC                | XTS                   | 2015                 |
+| CHAMPION                | M1000                 | 2006                 |
++-------------------------+-----------------------+----------------------+
+                
+    
+    
+
+			<<< 5 >>> 
+ Top 5 Customer Preferred Color : 
+                
+
+            +-------------+------------------------+
+| Color       |   Preferred color in % |
+|-------------+------------------------|
+| BLACK       |                   27.5 |
+| WHITE       |                   23.9 |
+| YELLOW      |                   11.1 |
+| BLUE/WHITE  |                    3.8 |
+| ORANGE/BLUE |                    3.6 |
++-------------+------------------------+  
+            
